@@ -7,6 +7,6 @@ I focus on writing clean, functional, and scalable software while always explori
 ### 🌱 Current Goals
 - Keep improving my problem-solving skills  
 - Explore modern frameworks and best practices  
-- Contribute more to the open-source community  
+  
 
 📫 **Let’s connect and build cool things together!**
